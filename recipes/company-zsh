@@ -1,0 +1,2 @@
+(company-zsh :fetcher git
+             :url "https://codeberg.org/FelipeLema/company-zsh.git")
